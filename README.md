@@ -16,4 +16,7 @@ it will create a writeable snapshot to all snapshots within a specified snap gro
 * IBOX_IP - IP or FQDN for the InfiniBox 
 * SUFFIX (set to -clone)
  
- 
+## Notes
+* No need to provide consistency group name - only snap group name.
+* a page size of 100 is being used. 
+* jq (https://stedolan.github.io/jq/) has to be installed 
