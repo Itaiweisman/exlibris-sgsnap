@@ -1,9 +1,9 @@
 # exlibris-sgsnap
 ## Usage:
-  snapgroupsnap1.bash <snap group name> <string_to_search_in_snap_name> <string_to_replace_with_in_snap_name>
+ _#snapgroupsnap1.bash <snap group name> <string_to_search_in_snap_name> <string_to_replace_with_in_snap_name>_
   
 ### for instance
-  snapgroupsnap1.bash mysnapgroup lab qa
+  _#snapgroupsnap1.bash mysnapgroup lab qa_
  
 it will create a writeable snapshot to all snapshots within a specified snap group, will assign the following name to each 
 <Original_Snap_Name_with_replaced_string><SUFFIX>
