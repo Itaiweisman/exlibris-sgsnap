@@ -6,7 +6,7 @@ for instance
   snapgroupsnap1.bash mysnapgroup lab qa
   
   
- ## Parameters to set inside the script
+ ## Parameters to set inside the script ##
  
  IBOX_USER
  IBOX_PW
