@@ -8,9 +8,9 @@ for instance
   
  ## Parameters to set inside the script ##
  
- IBOX_USER
- IBOX_PW
- IBOX_IP
- SUFFIX (set to -clone)
+#### IBOX_USER
+#### IBOX_PW
+#### IBOX_IP
+#### SUFFIX (set to -clone)
  
  
